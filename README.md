@@ -23,6 +23,11 @@ bbr.sh
 - Description: Auto install latest kernel for TCP BBR
 - Intro: https://teddysun.com/489.html
 
+bbr-oracle.sh
+======
+
+wget --no-check-certificate https://github.com/reysc/across/raw/master/bbr-oracle.sh && chmod +x bbr-oracle.sh && ./bbr-oracle.sh
+
 kms.sh
 ======
 
